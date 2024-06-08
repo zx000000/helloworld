@@ -13,6 +13,8 @@ public class HelloworldApplication {
         System.out.println("Hello git4 ");
         System.out.println("master test ");
 
+        System.out.println("hot-fix ");
+
         SpringApplication.run(HelloworldApplication.class, args);
     }
 
